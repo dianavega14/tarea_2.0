@@ -152,13 +152,13 @@
       "languageVersion": "3.1"
     },
     {
-      "name": "componentes",
+      "name": "tarea2",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-11-04T00:30:52.689733Z",
+  "generated": "2023-11-17T02:32:57.894024Z",
   "generator": "pub",
   "generatorVersion": "3.1.4"
 }

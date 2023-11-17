@@ -19,7 +19,7 @@
             "outputFile": "com.example.componentes.app-merged_res-11:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\USER\\Documents\\tarea2.0\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\USER\\Documents\\tarea2.1\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -1293,7 +1293,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\USER\\Documents\\tarea2.0\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\USER\\Documents\\tarea2.1\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

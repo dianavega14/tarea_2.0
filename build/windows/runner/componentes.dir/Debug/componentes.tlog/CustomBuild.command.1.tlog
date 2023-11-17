@@ -1,6 +1,6 @@
-^C:\USERS\USER\DOCUMENTS\TAREA2.0\WINDOWS\RUNNER\CMAKELISTS.TXT
+^C:\USERS\USER\DOCUMENTS\TAREA2.1\WINDOWS\RUNNER\CMAKELISTS.TXT
 setlocal
-"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/USER/Documents/tarea2.0/windows -BC:/Users/USER/Documents/tarea2.0/build/windows --check-stamp-file C:/Users/USER/Documents/tarea2.0/build/windows/runner/CMakeFiles/generate.stamp
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/USER/Documents/tarea2.1/windows -BC:/Users/USER/Documents/tarea2.1/build/windows --check-stamp-file C:/Users/USER/Documents/tarea2.1/build/windows/runner/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

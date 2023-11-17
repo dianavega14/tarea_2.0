@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/USER/Documents/tarea2.0/windows/flutter
+# Install script for directory: C:/Users/USER/Documents/tarea2.1/windows/flutter
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

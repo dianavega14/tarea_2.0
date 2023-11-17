@@ -1,6 +1,6 @@
-^C:\USERS\USER\DOCUMENTS\TAREA2.0\BUILD\WINDOWS\CMAKEFILES\79BC41801F206218E82B4500B2320AE8\GENERATE.STAMP.RULE
+^C:\USERS\USER\DOCUMENTS\TAREA2.1\BUILD\WINDOWS\CMAKEFILES\B8EF66A0B8C368C05F1112AB63A4D256\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/USER/Documents/tarea2.0/windows -BC:/Users/USER/Documents/tarea2.0/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/USER/Documents/tarea2.0/build/windows/componentes.sln
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/USER/Documents/tarea2.1/windows -BC:/Users/USER/Documents/tarea2.1/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/USER/Documents/tarea2.1/build/windows/componentes.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
